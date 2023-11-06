@@ -1,4 +1,8 @@
 # Mini_project_IT202
+
+# For browsing a site:
+hosted this website at ** https://poutineparadise.000webhostapp.com/ **
+
 A restaurant website using Html, CSS, Javascript and bootstrap
 
 Project: Poutine Paradise Website
@@ -12,9 +16,6 @@ menu.html: the menu page, which displays the restaurant's dishes and prices, and
 and ourcusutomer.html, aboutus.html and contactus.html.
 css/: a folder containing the CSS stylesheets used for styling the website pages.
 
-For browsing a site:
-I hosted this website online https://poutineparadise.000webhostapp.com/ 
-So, you can check there as well. 
 
 Credits:
 The website was created using some of the resources include:
